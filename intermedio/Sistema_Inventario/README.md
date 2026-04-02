@@ -5,8 +5,4 @@ de inventario en consola. Permite gestionar productos mediante un menú interact
 
 Funcionalidades:
 
--Agregar productos al inventario inicial
--Agregar nuevos productos en cualquier momento
--Buscar productos por ID
--Mostrar el inventario completo
--Menú interactivo en consola
+-Agregar productos al inventario inicial, Agregar nuevos productos en cualquier momento, Buscar productos por ID, Mostrar el inventario completo, Menú interactivo en consola
